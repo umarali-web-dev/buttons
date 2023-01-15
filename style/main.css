@@ -1,0 +1,44 @@
+.forms {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+}
+
+form input {
+  text-align: center;
+  margin: 10px 0px;
+  padding: 20px;
+}
+
+input {
+  width: 600px;
+}
+
+.grey {
+  background-color: #EEEEEE;
+  color: #a69090;
+
+}
+
+.green {
+  background-color: #C5E1A6;
+  border-color: #B9CD9D;
+}
+
+.pink {
+  background-color: #EE9A9A;
+  color: #8d1111;
+}
+
+
+
+.yellow {
+  background-color: #FFF59C;
+}
+
+.blue {
+  background-color: #90CAF8;
+  color: #174675;
+}
